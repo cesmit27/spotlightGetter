@@ -6,4 +6,4 @@ To run the Python script, replace \<user\> in the following line with your actua
 
 You also need to set the destination folder path that you want. For example, you can put it in the downloads folder:
 
-`destination_folder = "C:\\Users\\\<user\>\\Downloads"`
+`destination_folder = r"C:\Users\\<user\>\Downloads"`
