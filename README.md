@@ -4,4 +4,6 @@ To run the Python script, replace \<user\> in the following line with your actua
 
 `spotlight_folder = "C:\\Users\\<user>\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets"`
 
-You also need to set the destination folder path that you want.
+You also need to set the destination folder path that you want. For example, you can put it in the downloads folder:
+
+`destination_folder = "C:\\Users\\\<user\>\\Downloads"`
